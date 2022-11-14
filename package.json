@@ -5,6 +5,7 @@
   "dependencies": {
     "@react-three/drei": "^9.40.0",
     "@react-three/fiber": "^8.9.1",
+    "@react-three/postprocessing": "^2.7.0",
     "@react-three/rapier": "^0.10.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -45,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/three": "^0.146.0"
   }
 }
